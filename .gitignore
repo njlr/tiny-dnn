@@ -203,3 +203,12 @@ docs/_build
 *.pb.h
 CMakeFiles*
 build*
+
+#################
+## Buck
+#################
+/buck-out/
+/.buckd/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS
